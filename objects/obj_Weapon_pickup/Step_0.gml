@@ -1,1 +1,2 @@
+/// @desc Decrement pickupDelay
 pickupDelay--;

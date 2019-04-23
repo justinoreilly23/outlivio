@@ -14,6 +14,10 @@ if ((keyboard_check_pressed(ord("E"))) && (pickupDelay < 0))
 		}
 		*/
 		
+		var active = instance_create_layer(other.x, other.x, "Pickups", gunPickup);
+		active.owner = other.id;
+		
+		
 		with (instance_create_layer(other.x, other.x, "Pickups", gunPickup))
 		{
 			weaponAttribute[WEAPON_ATTR.ammoStart] = gunActive.ammoInGun;

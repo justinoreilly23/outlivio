@@ -1,5 +1,5 @@
-x = obj_player.x + xOffset;
-y = obj_player.y + yOffset;
+x = owner.x + xOffset;
+y = owner.y + yOffset;
 
 image_angle = point_direction(x, y, mouse_x, mouse_y);
 	

@@ -1,5 +1,7 @@
 /// @description Initialize and Set Variables
 
+instance_create_layer(owner.x, owner.y, "GUI_weapon", obj_GUI_weapon);
+
 image_speed = 0; // Make sure the gun is idle
 image_index = 0; // Make sure gun spawns on first sprite frame
 image_xscale = 1;

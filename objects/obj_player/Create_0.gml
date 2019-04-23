@@ -3,6 +3,8 @@ var str = string_split(sprite_get_name(sprite_index), "_"); // converts to ds li
 var spriteName = string(str[| 0]) + "_" + string(str[| 1]);
 image_speed = 1;
 
+owner = id;
+
 /* Movement */
 walkspd = 3;
 vspd = walkspd;

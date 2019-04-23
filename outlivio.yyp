@@ -1063,6 +1063,14 @@
             }
         },
         {
+            "Key": "8814fb4a-38fc-4050-8082-1f60cbdf6b88",
+            "Value": {
+                "id": "999a5405-2e05-4867-91a1-7b178a132c0d",
+                "resourcePath": "objects\\obj_GUI_weapon\\obj_GUI_weapon.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "882a2941-af3d-4b50-aa46-b812a5eb6298",
             "Value": {
                 "id": "39b3fca5-6a5a-4695-9237-46a4adb02d0c",
@@ -1284,6 +1292,14 @@
                 "id": "a609f197-6009-4bd0-86b7-90595fd144cb",
                 "resourcePath": "sounds\\snd_gunshot\\snd_gunshot.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "a7f26964-cccc-425f-af14-583f70a6a165",
+            "Value": {
+                "id": "d48916c8-e041-4368-94ee-c75dba275dba",
+                "resourcePath": "objects\\obj_debug\\obj_debug.yy",
+                "resourceType": "GMObject"
             }
         },
         {
