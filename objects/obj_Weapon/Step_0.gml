@@ -3,7 +3,7 @@ y = owner.y + yOffset;
 
 image_angle = point_direction(x, y, mouse_x, mouse_y);
 	
-if (obj_player.controller == 0)
+if (Player.controller == 0)
 {
 	image_angle = point_direction(x, y, mouse_x, mouse_y);
 }

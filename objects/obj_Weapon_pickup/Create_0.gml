@@ -1,4 +1,7 @@
 // Check if this gun has been used before
+
+owner = 0;
+
 if (is_undefined(owner))
 {
 	owner = noone;

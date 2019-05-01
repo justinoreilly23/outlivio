@@ -1,4 +1,4 @@
-x = obj_player.x;
-y = obj_player.y;
+x = Player.x;
+y = Player.y;
 
-if (obj_player.isMoving) image_speed = 1; else image_speed = 0;
+if (Player.isMoving) image_speed = 1; else image_speed = 0;

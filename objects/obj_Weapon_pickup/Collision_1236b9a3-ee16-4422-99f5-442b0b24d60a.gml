@@ -7,7 +7,7 @@ if ((keyboard_check_pressed(ord("E"))) && (pickupDelay < 0))
 	if (other.hasWeapon)
 	{	
 		/*
-		with (instance_create_layer(obj_player.x, obj_player.y, "Player", gunActive))
+		with (instance_create_layer(Player.x, Player.y, "Player", gunActive))
 		{
 			hasOwner = true;
 			global.currentWeapon = self;
@@ -27,7 +27,7 @@ if ((keyboard_check_pressed(ord("E"))) && (pickupDelay < 0))
 	else
 	{
 		other.hasWeapon = true;
-		other.currentWeapon = instance_create_layer(obj_player.x, obj_player.y, "Player", gunActive);
+		other.currentWeapon = instance_create_layer(Player.x, Player.y, "Player", gunActive);
 		
 		with (other.currentWeapon)
 		{

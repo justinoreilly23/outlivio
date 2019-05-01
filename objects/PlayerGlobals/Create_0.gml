@@ -1,7 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if (! is_undefined(Player.currentWeapon))
+enum PLAYER_INVENTORY
 {
-	weapon = Player.currentWeapon;
+
 }
+

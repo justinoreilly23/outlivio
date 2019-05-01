@@ -1,7 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
-
-if (! is_undefined(Player.currentWeapon))
+enum TRANS_MODE
 {
-	weapon = Player.currentWeapon;
+	OFF,
+	NEXT,
+	GOTO,
+	RESTART,
+	INTRO
 }

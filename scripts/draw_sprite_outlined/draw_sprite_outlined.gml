@@ -17,11 +17,11 @@ var ys = argument5;
 var ang = argument6;
 var col = argument7;
 var ocol = argument8;
-d3d_set_fog(true, ocol, 0, 1);
+//d3d_set_fog(true, ocol, 0, 1);
 draw_sprite_ext(spr, img, xx-xs, yy, xs, ys, ang, c_white, 1);
 draw_sprite_ext(spr, img, xx+xs, yy, xs, ys, ang, c_white, 1);
 draw_sprite_ext(spr, img, xx, yy-ys, xs, ys, ang, c_white, 1);
 draw_sprite_ext(spr, img, xx, yy+ys, xs, ys, ang, c_white, 1);
-d3d_set_fog(0, 0, 0, 0);
+//d3d_set_fog(0, 0, 0, 0);
 draw_sprite_ext(spr, img, xx, yy, xs, ys, ang, col, 1);
 
