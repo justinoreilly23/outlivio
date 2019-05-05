@@ -1,18 +1,18 @@
 {
-    "id": "176a2f1c-bd8d-47b1-8e63-466692481799",
+    "id": "ec91d7db-bd45-4a26-8b48-097c09a6b689",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Environment",
+    "name": "App",
     "eventList": [
         {
-            "id": "9a1a4c74-7067-4d7d-9390-0e0452661811",
+            "id": "18e9099f-50ff-43bb-aeed-afc4bef4be08",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "176a2f1c-bd8d-47b1-8e63-466692481799"
+            "m_owner": "ec91d7db-bd45-4a26-8b48-097c09a6b689"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -34,5 +34,5 @@
     "properties": null,
     "solid": false,
     "spriteId": "00000000-0000-0000-0000-000000000000",
-    "visible": true
+    "visible": false
 }
