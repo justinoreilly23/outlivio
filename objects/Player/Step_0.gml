@@ -57,3 +57,7 @@ if ((keyUp) && (keyRight)) sprite_index = spriteDirection[6];
 if ((keyDown) && (keyLeft)) sprite_index = spriteDirection[7];
 // Down & Right
 if ((keyDown) && (keyRight)) sprite_index = spriteDirection[8];
+
+// For testing purposes
+image_speed = 0;
+sprite_index = spr_testing;
