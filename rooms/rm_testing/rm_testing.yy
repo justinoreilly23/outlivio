@@ -3,7 +3,7 @@
     "name": "rm_testing",
     "id": "200abcbc-7f53-4188-adfc-84dfc6669137",
     "creationCodeFile": "RoomCreationCode.gml",
-    "inheritCode": true,
+    "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
@@ -351,7 +351,7 @@
     "roomSettings":     {
         "id": "1f2e16ff-f22f-41c5-bf3c-d333d90d2b2c",
         "Height": 3072,
-        "inheritRoomSettings": true,
+        "inheritRoomSettings": false,
         "modelName": "GMRoomSettings",
         "persistent": true,
         "mvc": "1.0",
