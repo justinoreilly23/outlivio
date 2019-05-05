@@ -767,6 +767,14 @@
             }
         },
         {
+            "Key": "58fee9f0-bd96-4aa1-860d-b790414b2a25",
+            "Value": {
+                "id": "cf80b5ec-1d9f-48f9-b8f1-90e3185a36d7",
+                "resourcePath": "views\\58fee9f0-bd96-4aa1-860d-b790414b2a25.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "5ae04ec4-040d-4b98-859c-b46308fc67fd",
             "Value": {
                 "id": "05ccdd41-8b35-4542-93f6-3944bea72a01",
@@ -1383,14 +1391,6 @@
             }
         },
         {
-            "Key": "aaa63f62-f094-4c54-97eb-22256be33b04",
-            "Value": {
-                "id": "a3382b95-ead1-40b6-9770-8f2d8860c2c0",
-                "resourcePath": "views\\aaa63f62-f094-4c54-97eb-22256be33b04.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "aab8ea82-119a-4d1e-9ec5-898cda37ef6a",
             "Value": {
                 "id": "e5724bfb-586c-4f98-b6e7-e73a9fc592b6",
@@ -1463,14 +1463,6 @@
             }
         },
         {
-            "Key": "b79a7bab-4270-47eb-9f78-232ae0524736",
-            "Value": {
-                "id": "f6ea77e5-663b-4627-841b-b5596f8eb7a6",
-                "resourcePath": "views\\6fe2c4f0-1806-402a-a3ba-ebd9dc7ce8d4-room.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "b8a57779-6cbb-4163-8229-a18e65a2009e",
             "Value": {
                 "id": "503f81e0-521c-40bd-824f-651fc93455be",
@@ -1523,6 +1515,14 @@
             "Value": {
                 "id": "d708ebcc-142c-4adf-8068-1521944575b9",
                 "resourcePath": "views\\c64bea15-0549-4232-a8ec-e5ddf4a888ef.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c8d8ef4f-de8e-4c14-ab08-ff6531a1aaaf",
+            "Value": {
+                "id": "bc14d88a-f19e-48df-8a45-cef49b50e4f2",
+                "resourcePath": "views\\c8d8ef4f-de8e-4c14-ab08-ff6531a1aaaf.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -1724,6 +1724,14 @@
                 "id": "626e8e74-51f2-40b3-8ccb-155dac175707",
                 "resourcePath": "scripts\\angle_approach\\angle_approach.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "e0ce88cc-9a3d-48ef-818d-d46b372f1e43",
+            "Value": {
+                "id": "261dd8b6-4c54-4994-8a54-c6c7c2d3f8f7",
+                "resourcePath": "sprites\\spr_testing\\spr_testing.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

@@ -1389,7 +1389,7 @@
             "mvc": "1.0",
             "SpriteId": "ecb9b874-0cae-47eb-a07a-5734f92ae1f3",
             "blendMode": 0,
-            "isLocked": false,
+            "isLocked": true,
             "name": "shadow",
             "opacity": 25,
             "visible": true
@@ -1400,7 +1400,7 @@
             "mvc": "1.0",
             "SpriteId": "ecb9b874-0cae-47eb-a07a-5734f92ae1f3",
             "blendMode": 0,
-            "isLocked": false,
+            "isLocked": true,
             "name": "default",
             "opacity": 100,
             "visible": true
