@@ -1,4 +1,8 @@
 /// @description Initalize
+
+// Inherit the parent event
+event_inherited();
+
 var str = string_split(sprite_get_name(sprite_index), "_"); // converts to ds list
 var spriteName = string(str[| 0]) + "_" + string(str[| 1]);
 image_speed = 1;

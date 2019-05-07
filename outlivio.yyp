@@ -1543,6 +1543,14 @@
             }
         },
         {
+            "Key": "c66b191a-c846-4f31-b3ef-6dee81a312fd",
+            "Value": {
+                "id": "101166f9-257d-407c-9bf7-3ba2e499cb01",
+                "resourcePath": "objects\\Configurable\\Configurable.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c8d8ef4f-de8e-4c14-ab08-ff6531a1aaaf",
             "Value": {
                 "id": "bc14d88a-f19e-48df-8a45-cef49b50e4f2",
