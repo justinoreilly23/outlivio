@@ -1,7 +1,15 @@
-/// @description 
+/// @description 8-d movement
 
 // Inherit the parent event
 event_inherited();
+
+keyUp = keyboard_check(ord(cfg_up));
+keyDown = keyboard_check(ord(cfg_down));
+keyLeft = keyboard_check(ord(cfg_left));
+keyRight = keyboard_check(ord(cfg_right));
+keyInteract = keyboard_check_pressed(ord(cfg_use));
+keyShoot = cfg_shoot;
+keyAim = cfg_aim;
 
 // Idle
 if ((!keyUp) && (!keyDown) && (!keyLeft) && (!keyRight))

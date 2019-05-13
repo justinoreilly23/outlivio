@@ -5,9 +5,9 @@
     "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
-    "inheritLayers": false,
+    "inheritLayers": true,
     "instanceCreationOrderIDs": [
-
+        "8d7ea150-9a1c-4688-bc46-f2c435d1371a"
     ],
     "IsDnD": false,
     "layers": [
@@ -321,6 +321,32 @@
             "vtiled": false,
             "x": 0,
             "y": 0
+        },
+        {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "App",
+            "id": "f6621fc9-8a06-4917-8666-7c05d59d17af",
+            "depth": 0,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": true,
+            "inheritLayerSettings": true,
+            "inheritSubLayers": true,
+            "inheritVisibility": true,
+            "instances": [
+{"name": "inst_16CDFD40","id": "8d7ea150-9a1c-4688-bc46-f2c435d1371a","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": true,"inheritItemSettings": true,"IsDnD": false,"m_originalParentID": "c6f58f50-9ff3-4c7b-8803-48d214f62380","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_16CDFD40","objId": "ec91d7db-bd45-4a26-8b48-097c09a6b689","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 0,"y": 0}
+            ],
+            "layers": [
+
+            ],
+            "m_parentID": "56b3c00d-2e3d-4dcc-b261-c48aa04d3b04",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
         }
     ],
     "modelName": "GMRoom",

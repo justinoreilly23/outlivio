@@ -1,14 +1,14 @@
 {
-    "id": "ee26ddad-4ea0-409c-b219-00e182e077e5",
+    "id": "47bdfb7c-a4f7-4705-8f0f-9339ad5fbc10",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "class_Interacts",
+    "name": "settings_Audio",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "7bc2b878-1cb0-493b-84f2-c3508f7d2d5d",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -25,5 +25,5 @@
     "properties": null,
     "solid": false,
     "spriteId": "00000000-0000-0000-0000-000000000000",
-    "visible": false
+    "visible": true
 }
