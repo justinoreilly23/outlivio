@@ -1,1 +1,1 @@
-image_blend = Player.skinColor;
+image_blend = object_Player.skinColor;

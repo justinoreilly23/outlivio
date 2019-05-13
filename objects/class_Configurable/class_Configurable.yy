@@ -2,7 +2,7 @@
     "id": "c66b191a-c846-4f31-b3ef-6dee81a312fd",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Configurable",
+    "name": "class_Configurable",
     "eventList": [
         {
             "id": "cafde621-feaa-4726-9caa-000f4ffd5b41",
